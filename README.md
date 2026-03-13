@@ -38,6 +38,11 @@ The agent is built to support new hires by providing timely and accurate answers
 ### - Image Analysis
 
 
+### 5) Other Repetitive Patterns
+
+
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA), which confirms that you have the right to, and do, grant us the rights to use your contribution. For more details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).

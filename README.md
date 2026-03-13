@@ -15,11 +15,19 @@ Cloud Accelerate Factory (CAF) for Agents Runbooks provide structured guidance, 
 
 
 ## Runbooks Scenarios
-# 1) Employee / Internal Productivity Agents
-[HR Onboarding Agent](Scenarios/HR-Onboarding-Agent/Runbook/hr-onboarding-autonomous-agent.md)
 
-# 2) Service & Support Agents
 
-# 3) Sales / Commercial Agents
+## 1) Employee / Internal Productivity Agents
 
-# 4) Cross-cutting Technical Patterns
+### - [HR Onboarding Agent](Scenarios/HR-Onboarding-Agent/Runbook/hr-onboarding-autonomous-agent.md):
+This scenario demonstrates how an Autonomous HR Onboarding Agent can be designed, deployed, and operated using Microsoft Copilot Studio as part of the Cloud Accelerate Factory (CAF) for Agents engagement.
+The agent is built to support new hires by providing timely and accurate answers to common HR onboarding questions, such as company policies, benefits, and onboarding processes. It reduces manual effort from HR teams while accelerating employee productivity.
+
+
+## 2) Service & Support Agents
+
+
+## 3) Sales / Commercial Agents
+
+
+## 4) Cross-cutting Technical Patterns

@@ -43,9 +43,10 @@ User (Email / Copilot)
    ↓
    
 Autonomous HR Agent (Copilot Studio)
-- Trigger: New Email Arrives
-- Knowledge: ServiceNow Copilot Connector
-- Tool: Office 365 Outlook (Send Email)
+1. Trigger: New Email Arrives
+2. Knowledge: ServiceNow Copilot Connector
+3. Tool: Office 365 Outlook (Send Email)
+
 
 - **Key Components**
 

@@ -4,7 +4,6 @@
 
 **Scenario Type**: Employee Self-Service (HR)  
 **Agent Type**: Autonomous Agent (Email-triggered + Knowledge-grounded)  
-**Delivery Model**: Cloud Accelerate Factory for Agents (CAF)  
 **Primary Tools**: Microsoft Copilot Studio, ServiceNow Copilot Connector, Power Platform
 
 This runbook describes how to build and deploy an HR Onboarding Autonomous Agent that helps new hires find HR-related information such as onboarding processes, policies, and employee benefits. The agent uses authoritative HR knowledge and can autonomously respond to email-based inquiries.
@@ -39,12 +38,14 @@ This runbook describes how to build and deploy an HR Onboarding Autonomous Agent
 
 - **Logical Architecture**
 
-**User (Email / Copilot)**
+User (Email / Copilot)
+
    ↓
-**Autonomous HR Agent (Copilot Studio)**
+   
+Autonomous HR Agent (Copilot Studio)
+- Trigger: New Email Arrives
 - Knowledge: ServiceNow Copilot Connector
 - Tool: Office 365 Outlook (Send Email)
-- Trigger: New Email Arrives
 
 - **Key Components**
 

@@ -35,24 +35,23 @@ This runbook describes how to build and deploy an HR Onboarding Autonomous Agent
 
 ---
 
-## Reference Architecture
-
-``
-
 ## Architecture
 
-- Logical Architecture
-User (Email / Copilot)
-   ↓
-Autonomous HR Agent (Copilot Studio)
-   ├─ Knowledge: ServiceNow Copilot Connector
-   ├─ Tool: Office 365 Outlook (Send Email)
-   └─ Trigger: New Email Arrives
+- **Logical Architecture**
 
-- Key Components
+**User (Email / Copilot)**
+   ↓
+**Autonomous HR Agent (Copilot Studio)**
+- Knowledge: ServiceNow Copilot Connector
+- Tool: Office 365 Outlook (Send Email)
+- Trigger: New Email Arrives
+
+- **Key Components**
 
 **ServiceNow Copilot Connector**: HR knowledge grounding
+
 **Power Platform Environment (Developer)**: Agent lifecycle management
+
 **Microsoft 365 Copilot**: End-user access channel
 
 
@@ -131,54 +130,56 @@ Email Trigger Logic:
 - Search ServiceNow knowledge.
 - Send response email to sender.
 - Email body must be HTML formatted.
-
+```
 
 ## Suggested Starter Prompts
 
-TitlePromptBenefitWhat is wellness benefit programMedical PlanProvide information for the medical plan and display it as a tableTravel ExpenseWhat is the travel expense?Code of ConductWhat is company code of conductOnboardingWhat is the onboarding process?
+1. What is wellness benefit program (Benefits)
+2. Provide information for the medical plan and display it as a table (Medical Plan)
+3. What is the travel expense?(Travel Expense)
+4. What is company code of conduct(Code of Conduct)
+5. What is the onboarding process?(Onboarding)
 
-Validation & Testing
-Functional Testing
+---
 
-Test agent responses in Copilot Studio
-Verify citations reference ServiceNow articles
+## Validation & Testing
+### Functional Testing
+- Test agent responses in Copilot Studio
+- Verify citations reference ServiceNow articles
 
-Autonomous Testing
+### Autonomous Testing
+- Send email from non-maker account
+- Confirm automated email response
+- Validate trigger and tool execution in Activity logs
 
-Send email from non-maker account
-Confirm automated email response
-Validate trigger and tool execution in Activity logs
+---
 
+## Publish & Deployment
+### Publish Agent
+- Publish agent in Copilot Studio
+- Review embedded credential warnings
 
-Publish & Deployment
-Publish Agent
+### Extend to Microsoft 365 Copilot
+- Enable Teams and M365 Copilot channel
+- Republish agent after channel addition
 
-Publish agent in Copilot Studio
-Review embedded credential warnings
+### Tenant-wide Deployment
+- Submit agent for admin approval
+- Approve agent in Integrated Apps
+- Make agent available org-wide
+---
 
-Extend to Microsoft 365 Copilot
+## Success Metrics
 
-Enable Teams and M365 Copilot channel
-Republish agent after channel addition
+- HR Agent MAU
+- HR inquiry deflection rate
+- Time-to-answer for onboarding questions
+- Microsoft 365 Copilot usage growth
+---
 
-Tenant-wide Deployment
+## Known Limitations & Escalation
 
-Submit agent for admin approval
-Approve agent in Integrated Apps
-Make agent available org-wide
-
-
-Success Metrics
-
-HR Agent MAU
-HR inquiry deflection rate
-Time-to-answer for onboarding questions
-Microsoft 365 Copilot usage growth
-
-
-Known Limitations & Escalation
-
-Transactional HR workflows → Route to ISD / Partner
-Knowledge quality issues → Update ServiceNow KB first
-Custom workflow requirements → Outside CAF standard scope
+- Transactional HR workflows → Route to ISD / Partner
+- Knowledge quality issues → Update ServiceNow KB first
+- Custom workflow requirements → Outside CAF standard scope
 

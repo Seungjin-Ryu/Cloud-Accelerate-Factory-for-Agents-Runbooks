@@ -25,3 +25,11 @@ Cloud Accelerate Factory (CAF) for Agents is a Microsoft delivery program that p
 
 ## Contributing
 [How to contribute](CONTRIBUTING.md)
+
+## Trademarks
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos must comply with [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+
+Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
+
+Any use of third-party trademarks or logos is subject to the policies of those third parties.

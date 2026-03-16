@@ -8,7 +8,7 @@ This section describes how a Cloud Accelerate Factory (CAF) for Agents engagemen
 
 A CAF engagement consists of **four sequential phases**, each with clearly defined goals, activities, and exit criteria.
 
-![Engagement Flow](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/main/CAF%20for%20Agents%20Engagement%20Flow.png)
+![Engagement Flow](00-program-overview/CAF for Agents Engagement Flow.png)
 
 
 ### Phase 0 — Nomination & Validation

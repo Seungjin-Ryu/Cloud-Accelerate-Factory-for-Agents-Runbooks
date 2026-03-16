@@ -10,7 +10,7 @@ The **Cloud Accelerate Factory (CAF) for Agents** is Microsoft's **single front 
 
 CAF provides **zero-cost, hands-on engineering support** to accelerate the building and deployment of high-value agent use cases using **Copilot Studio** and/or **Microsoft AI Foundry**. Through structured 6–8 week sprint engagements, CAF leverages proven runbooks, reference architectures, and repeatable delivery patterns to bring agents from development to production — with confidence in security, governance, and scalability.
 
-> 💡 If your customer does **not** yet have a committed use case and needs pre-sales development or trials, consider [Copilot Acceleration and Trials (CAT)](https://aka.ms/CATProgram) instead.
+> 💡 If your customer does **not** yet have a committed use case and needs pre-sales development or trials, consider Copilot Acceleration and Trials (CAT) instead.
 
 ---
 

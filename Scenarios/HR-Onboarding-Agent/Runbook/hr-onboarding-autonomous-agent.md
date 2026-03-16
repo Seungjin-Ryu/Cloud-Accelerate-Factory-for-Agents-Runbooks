@@ -1,28 +1,5 @@
 # HR Onboarding Autonomous Agent
 
-## Architecture
-
-- **Logical Architecture**
-
-User (Email / Copilot)
-
-   ↓
-   
-Autonomous HR Agent (Copilot Studio)
-1. Trigger: New Email Arrives
-2. Knowledge: ServiceNow Copilot Connector
-3. Tool: Office 365 Outlook (Send Email)
-
-
-- **Key Components**
-
-**ServiceNow Copilot Connector**: HR knowledge grounding
-
-**Power Platform Environment (Developer)**: Agent lifecycle management
-
-**Microsoft 365 Copilot**: End-user access channel
-
-
 ## Prerequisites
 
 ### Licensing & Permissions

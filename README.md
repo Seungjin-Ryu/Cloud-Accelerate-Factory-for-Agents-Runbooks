@@ -10,9 +10,9 @@ Cloud Accelerate Factory (CAF) for Agents is a Microsoft delivery program that p
 ## How to use this repository
 | Purpose | Starting Path |
 |--------|---------------|
-| Program Overview | [00-program-overview/](00-program-overview) |
-| Engagement flow | `01-runbooks/` |
-| Customer scenarios | `02-scenarios/` |
+| Program overview | [00-program-overview/](00-program-overview) |
+| Engagement phases | `01-runbooks/` |
+| Supported scenarios | `02-scenarios/` |
 | Technical patterns | `03-patterns/` |
 
 
@@ -20,4 +20,4 @@ Cloud Accelerate Factory (CAF) for Agents is a Microsoft delivery program that p
 [Sprint-0 Discovery Runbook →]()
 
 ## Contributing
-[How to contribute]()
+[How to contribute](CONTRIBUTING.md)

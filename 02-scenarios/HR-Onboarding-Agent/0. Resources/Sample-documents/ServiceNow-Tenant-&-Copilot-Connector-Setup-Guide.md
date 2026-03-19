@@ -49,11 +49,12 @@ This guide walks through two main tasks:
 > ![Get a ServiceNow ID button](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/52a470f75780d5d882fd425f938cf9996bd6f563/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/010.png)
 
 4. Fill out the registration form with the following details:
+   - Email
    - First Name
    - Last Name
-   - Email
    - Country
    - Password
+   - Confirm Password
    - Check the reCAPTCHA box
    - Accept the Terms of Use
      

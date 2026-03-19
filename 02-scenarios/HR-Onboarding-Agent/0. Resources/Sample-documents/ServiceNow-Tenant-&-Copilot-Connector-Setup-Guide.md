@@ -1,6 +1,6 @@
 # ServiceNow Tenant & Copilot Connector Setup Guide
 
-> **Referenced from**: [Phase 1 — Step 1-1 in Step-by-Step Deployment Guide](./3.Step-by-Step-Guide.md#step-1-1-create-servicenow-tenant--configure-copilot-connector)  
+> **Referenced from**: [HR-Onboarding-Agent>3.Runbook>Phase 1: ServiceNow Knowledge Base Setup>Step 1-1. Create ServiceNow Tenant & Configure Copilot Connector](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/6c84752ac2af3a90bbb4f27bbefcbf6bf8426863/02-scenarios/HR-Onboarding-Agent/3.Runbook.md)  
 > **Purpose**: Set up a free ServiceNow Developer Instance and configure the
 > ServiceNow Knowledge Copilot Connector in M365 Admin Center  
 > **Target Users**: CSA / Vendor / PM  

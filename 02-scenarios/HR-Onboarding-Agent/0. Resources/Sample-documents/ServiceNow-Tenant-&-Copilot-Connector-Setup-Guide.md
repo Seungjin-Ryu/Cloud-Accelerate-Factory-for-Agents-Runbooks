@@ -29,7 +29,7 @@ This guide walks through two main tasks:
 
 | Requirement | Details |
 |---|---|
-| Email address | Required to sign up for a ServiceNow Developer account (Microsoft corp email recommended) |
+| Email address | Required to sign up for a ServiceNow Developer account |
 | M365 Admin access | Required to install and configure the Copilot Connector |
 | Microsoft 365 Copilot license | Required for the tenant where the connector will be installed |
 
@@ -41,12 +41,12 @@ This guide walks through two main tasks:
 
 1. Open your browser and go to https://developer.servicenow.com
 
-   > 📸 **[Screenshot required]** — ServiceNow Developer Program home page with the "Sign In" button in the top right corner
+> ![ServiceNow Developer Program home page](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/52a470f75780d5d882fd425f938cf9996bd6f563/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/009.png)
 
 2. Click **"Sign In"** in the top right corner
 3. Click **"Get a ServiceNow ID"**
 
-   > 📸 **[Screenshot required]** — Sign in page showing the "Get a ServiceNow ID" link
+> ![Get a ServiceNow ID button](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/52a470f75780d5d882fd425f938cf9996bd6f563/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/010.png)
 
 4. Fill out the registration form with the following details:
    - First Name

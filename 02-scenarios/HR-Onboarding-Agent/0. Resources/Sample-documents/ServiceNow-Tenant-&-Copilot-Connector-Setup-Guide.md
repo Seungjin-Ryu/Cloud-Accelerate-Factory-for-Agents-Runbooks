@@ -44,21 +44,22 @@ This guide walks through two main tasks:
 > ![ServiceNow Developer Program home page](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/52a470f75780d5d882fd425f938cf9996bd6f563/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/009.png)
 
 2. Click **"Sign In"** in the top right corner
-3. Click **"New User? Get a ServiceNow ID"**
+3. Click **"New user? Get a ServiceNow ID"**
 
 > ![Get a ServiceNow ID button](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/52a470f75780d5d882fd425f938cf9996bd6f563/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/010.png)
 
 4. Fill out the registration form with the following details:
    - First Name
    - Last Name
-   - Email *(Microsoft corp email is recommended)*
+   - Email
    - Country
    - Password
    - Check the reCAPTCHA box
    - Accept the Terms of Use
+     
 5. Click **Submit**
 
-   > 📸 **[Screenshot required]** — ServiceNow ID registration form filled out
+> ![ServiceNow ID registration](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/9c4298365c1d1b538c8407ba977f7573aefbf51d/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/011.png)
 
 ---
 

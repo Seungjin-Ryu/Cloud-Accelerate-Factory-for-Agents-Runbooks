@@ -1,4 +1,4 @@
-# ServiceNow Tenant & Copilot Connector Setup Guide
+<img width="593" height="58" alt="image" src="https://github.com/user-attachments/assets/7836001f-d280-4cf1-9ab4-3398f064d00f" /># ServiceNow Tenant & Copilot Connector Setup Guide
 
 > **Referenced from**: [HR-Onboarding-Agent>3.Runbook>Phase 1: ServiceNow Knowledge Base Setup>Step 1-1. Create ServiceNow Tenant & Configure Copilot Connector](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/main/02-scenarios/HR-Onboarding-Agent/3.Runbook.md#phase-1-servicenow-knowledge-base-setup)  
 > **Purpose**: Set up a free ServiceNow Developer Instance and configure the
@@ -82,17 +82,13 @@ This guide walks through two main tasks:
 
 ### Step 1-1-3. Complete Initial Setup
 
-1. On the next screen, click **"Developer Program"**
+1. In the **"Getting Started"** dialog, click **"No"** (I need a guided experience)
 
-   > 📸 **[Screenshot required]** — Post-login screen with "Developer Program" option
+> ![Getting Started screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/b757d3b1ba51ffe6ff13d7714023b3a042fdefa8/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/014.png)
 
-2. In the **"Getting Started"** dialog, click **"No"** (I need a guided experience)
+2. In the next window, select your preferred options, check the **Terms of Use** checkbox, and click **"Finish Setup"**
 
-   > 📸 **[Screenshot required]** — "Getting Started" dialog with "No" option selected
-
-3. In the next window, select your preferred options, check the **Terms of Use** checkbox, and click **"Finish Setup"**
-
-   > 📸 **[Screenshot required]** — Setup preferences screen with Terms of Use checkbox
+> ![Set-up screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/b757d3b1ba51ffe6ff13d7714023b3a042fdefa8/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/015.png)
 
 ---
 

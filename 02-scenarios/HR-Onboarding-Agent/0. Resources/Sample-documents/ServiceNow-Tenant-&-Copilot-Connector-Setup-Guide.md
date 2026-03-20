@@ -58,7 +58,7 @@ This guide walks through two main tasks:
    - Check the reCAPTCHA box
    - Accept the Terms of Use
      
-5. Click **Submit**
+5. Click **Sign Up**
 
 > ![ServiceNow ID registration](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/9c4298365c1d1b538c8407ba977f7573aefbf51d/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/011.png)
 

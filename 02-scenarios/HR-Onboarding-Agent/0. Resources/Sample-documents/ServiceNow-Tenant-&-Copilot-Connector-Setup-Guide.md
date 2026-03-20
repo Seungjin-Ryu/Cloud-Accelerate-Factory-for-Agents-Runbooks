@@ -200,15 +200,15 @@ This guide walks through two main tasks:
 ### Step 1-1-9. Add a New Connection in M365 Admin Center
 
 1. Log in to **M365 Admin Center** → https://admin.microsoft.com
-2. Navigate to **Settings** → **Search & Intelligence** → **Data sources**
+2. Navigate to **Copilot** → **Connectors** → **Your Connections**
 3. Click **"+ Add Connection"**
 
-   > 📸 **[Screenshot required]** — M365 Admin Center, Search & Intelligence > Data sources page with "Add Connection" button
+> ![M365 Admin Center - Copilot Connectors page](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/5158294c79753480ed8fb9416cea09a034571aa6/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/026.png)
 
-4. In the connector list, select **"ServiceNow Knowledge"**
+4. In the connector list, select **"Add"** of **"ServiceNow Knowledge"**
 5. Click **"Next"**
 
-   > 📸 **[Screenshot required]** — Connector selection page with "ServiceNow Knowledge" selected
+> [ServiceNow Knowledge - Add screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/4f124bd22f959053cf9273d5f1d715c8a0e69b29/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/027.png)
 
 ---
 

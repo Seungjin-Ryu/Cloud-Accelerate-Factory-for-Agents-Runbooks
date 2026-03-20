@@ -239,17 +239,13 @@ This guide walks through two main tasks:
 
 ### Step 1-1-11. Authenticate the Connection
 
-1. Wait for the **"Sign in"** button to appear under the authentication section
+1. Click **"Authorize"** and wait for authentication to complete
 
-   > 💡 **Known Issue**: There is a current UI bug where the "Sign in" button may not appear immediately. Wait a moment and it will show up.
+> ![Authentication screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/e872a01f96827a6f96f48ddb0dbd594cfbe41b18/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/030.png)
 
-2. Click **"Sign in"** and wait for authentication to complete
+2. After successful authentication, confirm that **green check marks** appear next to the username and password fields
 
-   > 📸 **[Screenshot required]** — Authentication section showing the "Sign in" button
-
-3. After successful authentication, confirm that **green check marks** appear next to the username and password fields
-
-   > 📸 **[Screenshot required]** — Authentication section showing green check marks next to username and password
+> ![Green Check Marks](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/2334e2f365537e2abae314d52be990af6354f6bb/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/031.png)
 
 ---
 

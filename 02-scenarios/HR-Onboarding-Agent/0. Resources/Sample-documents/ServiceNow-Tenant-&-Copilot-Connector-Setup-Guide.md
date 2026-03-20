@@ -1,4 +1,4 @@
-<img width="593" height="58" alt="image" src="https://github.com/user-attachments/assets/7836001f-d280-4cf1-9ab4-3398f064d00f" /># ServiceNow Tenant & Copilot Connector Setup Guide
+# ServiceNow Tenant & Copilot Connector Setup Guide
 
 > **Referenced from**: [HR-Onboarding-Agent>3.Runbook>Phase 1: ServiceNow Knowledge Base Setup>Step 1-1. Create ServiceNow Tenant & Configure Copilot Connector](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/main/02-scenarios/HR-Onboarding-Agent/3.Runbook.md#phase-1-servicenow-knowledge-base-setup)  
 > **Purpose**: Set up a free ServiceNow Developer Instance and configure the

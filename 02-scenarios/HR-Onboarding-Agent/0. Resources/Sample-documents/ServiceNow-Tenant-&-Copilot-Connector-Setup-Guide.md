@@ -140,20 +140,19 @@ This guide walks through two main tasks:
 
 ### Step 1-1-6. Retrieve Admin Credentials
 
-1. In your **"My Instance"** details window, click **"Manage instance password"**
+1. On the **"Manage my instance"** page, note down the following credentials — you will need them in Part 2:
 
-   > 📸 **[Screenshot required]** — My Instance panel showing "Manage instance password" option
+>![Manage my instance page](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/84f5b3ce88bf8df7262eb8eab71ca563fc61805b/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/022.png)
 
-2. Note down the following credentials — you will need them in Part 2:
    - **Instance URL**: `https://dev[XXXXXX].service-now.com`
    - **Username**: `admin`
-   - **Password**: *(shown in the manage password screen)*
-
+   - **Password**: *(shown in the manage password screen)*  
+     
    > ⚠️ **Important Notes on Instance Availability**:  
    > - ServiceNow instances will **hibernate** after a period of inactivity  
    > - Attempts to access the instance via Graph or Power Platform connectors will **fail** when the instance is hibernating  
    > - Always validate the instance is **awake** before starting your demo  
-   > - If an instance is **dormant for more than 10 days**, it will be reclaimed by ServiceNow — logging in via the Copilot connector alone is **not sufficient** to keep it active
+   > - If an instance is **dormant for more than 10 days**, it will be reclaimed by ServiceNow — logging in via the Copilot connector alone is **not sufficient** to keep it active  
 
 ---
 

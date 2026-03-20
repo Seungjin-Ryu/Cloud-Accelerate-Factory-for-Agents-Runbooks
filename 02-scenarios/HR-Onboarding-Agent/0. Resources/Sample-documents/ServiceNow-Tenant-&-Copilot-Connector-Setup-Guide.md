@@ -1,4 +1,4 @@
-# ServiceNow Tenant & Copilot Connector Setup Guide
+<img width="184" height="70" alt="image" src="https://github.com/user-attachments/assets/3490c627-98c7-4eb2-8fe2-0677827529ca" /># ServiceNow Tenant & Copilot Connector Setup Guide
 
 > **Referenced from**: [HR-Onboarding-Agent>3.Runbook>Phase 1: ServiceNow Knowledge Base Setup>Step 1-1. Create ServiceNow Tenant & Configure Copilot Connector](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/main/02-scenarios/HR-Onboarding-Agent/3.Runbook.md#phase-1-servicenow-knowledge-base-setup)  
 > **Purpose**: Set up a free ServiceNow Developer Instance and configure the
@@ -98,7 +98,7 @@ This guide walks through two main tasks:
 1. You should now be in your **ServiceNow Developer Dashboard**
 2. Click **"Request Instance"** in the top right corner
 
-   > 📸 **[Screenshot required]** — ServiceNow Developer Dashboard with "Request Instance" button in the top right
+> ![Request Instance screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/961e4f04d6bef72b39f72708451ee6502a4ce8a5/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/016.png)
 
    > 💡 This process typically takes less than a minute.
 

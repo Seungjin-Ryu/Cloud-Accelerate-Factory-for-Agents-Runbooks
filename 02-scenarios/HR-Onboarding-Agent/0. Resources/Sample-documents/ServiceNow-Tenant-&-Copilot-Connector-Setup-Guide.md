@@ -88,7 +88,8 @@ This guide walks through two main tasks:
 
 2. In the next window, select your preferred options, check the **Terms of Use** checkbox, and click **"Finish Setup"**
 
-> ![Set-up screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/b757d3b1ba51ffe6ff13d7714023b3a042fdefa8/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/015.png)
+> ![Set-up screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/d62e4d37dcf49f101746c13292243e03849d08ca/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/015.png)
+
 
 ---
 

@@ -166,7 +166,7 @@ This guide walks through two main tasks:
    - **Username**: `admin`
    - **Password**: *(from Step 1-1-6)*
 
-   > 📸 **[Screenshot required]** — ServiceNow instance login page with admin credentials entered
+> ![ServiceNow instance login page](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/f2ded5aaaf28a05b4b0e0ec3e52645d80c4799b0/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/023.png)
 
 ---
 

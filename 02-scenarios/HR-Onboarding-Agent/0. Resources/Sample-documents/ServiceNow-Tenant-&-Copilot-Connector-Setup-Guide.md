@@ -1,4 +1,4 @@
-<img width="184" height="70" alt="image" src="https://github.com/user-attachments/assets/3490c627-98c7-4eb2-8fe2-0677827529ca" /># ServiceNow Tenant & Copilot Connector Setup Guide
+# ServiceNow Tenant & Copilot Connector Setup Guide
 
 > **Referenced from**: [HR-Onboarding-Agent>3.Runbook>Phase 1: ServiceNow Knowledge Base Setup>Step 1-1. Create ServiceNow Tenant & Configure Copilot Connector](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/main/02-scenarios/HR-Onboarding-Agent/3.Runbook.md#phase-1-servicenow-knowledge-base-setup)  
 > **Purpose**: Set up a free ServiceNow Developer Instance and configure the
@@ -100,9 +100,13 @@ This guide walks through two main tasks:
 
 > ![Request Instance screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/961e4f04d6bef72b39f72708451ee6502a4ce8a5/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/016.png)
 
+3. Choose **"Zurich release"** and click **"Request"**  
+ 
+> ![Request an Instance screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/2a4415de5e7c222a860db1b92ba33bff3e80389e/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/017.png)
+
    > 💡 This process typically takes less than a minute.
 
-3. Once the instance is ready, a pop-up will appear with your instance details:
+4. Once the instance is ready, a pop-up will appear with your instance details:
    - **Instance URL**: `https://dev[XXXXXX].service-now.com`
    - **Username**: `aes.creator`
    - **Current password**: *(auto-generated)*
@@ -111,7 +115,7 @@ This guide walks through two main tasks:
 
    > ⚠️ **Important**: Click **"Return to the Developer Site"** when this pop-up appears. Do NOT click "Open Instance" yet.
 
-4. Click your **profile icon** in the top right corner
+5. Click your **profile icon** in the top right corner
 
    > 📸 **[Screenshot required]** — Developer site with profile icon in the top right
 

@@ -208,7 +208,7 @@ This guide walks through two main tasks:
 4. In the connector list, select **"Add"** of **"ServiceNow Knowledge"**
 5. Click **"Next"**
 
-> [ServiceNow Knowledge - Add screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/4f124bd22f959053cf9273d5f1d715c8a0e69b29/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/027.png)
+> ![ServiceNow Knowledge - Add screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/4f124bd22f959053cf9273d5f1d715c8a0e69b29/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/027.png)
 
 ---
 

@@ -106,38 +106,34 @@ This guide walks through two main tasks:
 
    > 💡 This process typically takes less than a minute.
 
-4. Once the instance is ready, a pop-up will appear with your instance details:
+4. Once the instance is ready, a Manage my instance screen will appear with your instance details:
    - **Instance URL**: `https://dev[XXXXXX].service-now.com`
-   - **Username**: `aes.creator`
+   - **Username**: `admin`
    - **Current password**: *(auto-generated)*
 
-   > 📸 **[Screenshot required]** — "Your instance is ready!" pop-up showing Instance URL, Username, and Password
+> ![Manage my instance screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/ecc3f2f3a2c049868c0f027ee8cb124683827f44/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/018.png)
 
-   > ⚠️ **Important**: Click **"Return to the Developer Site"** when this pop-up appears. Do NOT click "Open Instance" yet.
-
-5. Click your **profile icon** in the top right corner
-
-   > 📸 **[Screenshot required]** — Developer site with profile icon in the top right
+   > 💡 You are expected to have the 'Admin' user role assigned. 
 
 ---
 
-### Step 1-1-5. Switch to Admin Role
+### Step 1-1-5. Switch to Admin Role (Skip this step if you have the 'Admin' user role assigned.)
 
-1. Click **"Change User Role"** from the profile dropdown
+1. Click **"Actions"** in the top right corner and **"Change User Role"** from the dropdown.
 
-   > 📸 **[Screenshot required]** — Profile dropdown menu showing "Change User Role" option
+> ![Change user role screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/2c81dbed4d267fb065e63ccec6cef94ae210706b/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/019.png)
 
 2. In the **"Change User Role"** dialog, select **"Admin"**
 
-   > 📸 **[Screenshot required]** — Change User Role dialog with "Admin" option selected
+>![Change user role - admin selection screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/2c81dbed4d267fb065e63ccec6cef94ae210706b/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/020.png)
 
    > ⚠️ **Important**: Admin access is required to configure the ServiceNow instance for the Copilot Connector.
 
-3. Click **"Change User Role"** to confirm
+3. Click **"Change"** to confirm
 4. Click **"Done"** once the change is confirmed
 
-   > 📸 **[Screenshot required]** — "Your change user role request is completed successfully" confirmation screen
-
+>![Role change screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/9603a9bd13cbb2507c6af84a7acadfd4b163ebb8/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/021.png)
+ 
 5. Click **"Cancel"** to exit the dialog
 
 ---

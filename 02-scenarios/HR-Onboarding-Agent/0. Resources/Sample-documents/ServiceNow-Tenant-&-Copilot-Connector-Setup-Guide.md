@@ -176,7 +176,7 @@ This guide walks through two main tasks:
 2. Type **"knowledge bases"** in the search field
 3. Select **"Knowledge Bases"** under **Knowledge > Administration**
 
-   > 📸 **[Screenshot required]** — ServiceNow search showing "Knowledge Bases" under Knowledge > Administration
+> ![Knowledge Bases selection screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/3bb12036b2fa6f084dfe1b70e96331db958ece69/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/024.png)
 
 4. Confirm the following four default Knowledge Bases are listed:
 

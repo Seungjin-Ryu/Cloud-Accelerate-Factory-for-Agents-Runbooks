@@ -216,22 +216,24 @@ This guide walks through two main tasks:
 
 1. Click **"Custom setup"** in the upper right of the screen
 
-   > 📸 **[Screenshot required]** — Connection setup page with "Custom setup" button in the upper right
+> ![Custom setup screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/86190d439676ddbaaf63b432948f36b8fe760cfa/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/028.png)
+
 
 2. Fill in the following fields in the **Setup** tab:
 
-   | Field | Value |
+   | Required Field | Value |
    |---|---|
    | Display name | `ServiceNow` *(or a unique name, e.g., `ServiceNowKB5`)* |
    | ServiceNow URL | `https://dev[XXXXXX].service-now.com` *(your instance URL from Step 1-1-6)* |
    | Authentication type | `Basic` |
    | Username | `admin` |
    | Password | *(your admin password from Step 1-1-6)* |
+   | Notice | `✅` |
 
    > ⚠️ **Security Note**: `Basic` authentication is used for **demo/dev purposes only**.  
    > For **customer deployments**, always use **ServiceNow OAuth** or **Azure AD OIDC**.
 
-   > 📸 **[Screenshot required]** — Setup tab with all connection fields filled in
+> ![Custom setup screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/67304ea649cdc5abd5b74f0a8b1612cb23efc715/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/029.png)
 
 ---
 

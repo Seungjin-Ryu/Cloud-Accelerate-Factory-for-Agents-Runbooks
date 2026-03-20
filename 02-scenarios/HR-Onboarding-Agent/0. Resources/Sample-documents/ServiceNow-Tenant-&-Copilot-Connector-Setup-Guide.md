@@ -69,14 +69,14 @@ This guide walks through two main tasks:
 1. Check your inbox for a verification email from `signon@service-now.com`
 2. Click **"Verify Email"** in the email
 
-   > 📸 **[Screenshot required]** — Verification email from ServiceNow with the "Verify Email" button
+> ![Verification email](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/ddda252ff491028ccc3670f813e71050623b1199/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/012.png)
 
 3. After verification, log in to your ServiceNow account
-4. On first login, enter the **one-time verification code** sent to your email
+4. On first login, MFA setup will appear on the next screen.
 
-   > 📸 **[Screenshot required]** — One-time verification code email from ServiceNow
+> ![MFA setup screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/722fae4d3ef904edf54b72383a23d56828f1e457/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/013.png)
 
-   > 💡 **Note**: MFA setup will appear on the next screen. For simplicity, click **"Skip"** to proceed without MFA.
+   > 💡 **Note**: For simplicity, click **"Skip"** to proceed without MFA.
 
 ---
 

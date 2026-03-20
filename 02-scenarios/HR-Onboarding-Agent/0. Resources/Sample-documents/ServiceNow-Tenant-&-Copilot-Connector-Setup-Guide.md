@@ -253,11 +253,9 @@ This guide walks through two main tasks:
 
 1. Click the **"Users"** tab at the top of the setup panel
 
-   > 📸 **[Screenshot required]** — Custom setup tabs showing Setup, Users, Content, and Sync tabs
-
 2. Under **"Access Permissions"**, select **"Everyone"**
 
-   > 📸 **[Screenshot required]** — Users tab with "Everyone" selected under Access Permissions
+> ![Users - Access Permissions screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/d71ea34cecb913d50f6b7340d403dd7bde01ece5/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/032.png)
 
    > ⚠️ **Security Note**: **"Everyone"** is selected for demo/dev convenience only.  
    > For **customer deployments**, always select **"Only people with access to this data source"**  
@@ -268,16 +266,12 @@ This guide walks through two main tasks:
 ### Step 1-1-13. Create the Connection
 
 1. Go back to the **"Setup"** tab
-2. Scroll to the bottom and check the **Notice** checkbox to accept
-3. Wait for the **"Create"** button to become enabled
+2. Check all the required values are populated
+3. Click **"Create"**
 
-   > 💡 This may take up to a minute. If the button remains disabled, try clicking to the **Users** tab and back to trigger the button activation.
+> ![Connection creation screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/907d05be869488bfdc980226269accb690a273c8/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/033.png)
 
-4. Click **"Create"**
-
-   > 📸 **[Screenshot required]** — Setup tab with Notice checkbox checked and the "Create" button enabled
-
-5. The button will display **"Creating connection"** while the process runs
+4. The button will display **"Creating connection"** while the process runs
 
 ---
 
@@ -286,13 +280,13 @@ This guide walks through two main tasks:
 1. Once the connection is created, a success screen will appear:  
    **"Created connection — ServiceNow (ServiceNowKB[X])"**
 
-   > 📸 **[Screenshot required]** — Success screen showing "Created connection" with the connector name
+> ![Created connection screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/c7304e0bb17157221cc8cf01b80730150878021a/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/034.png)
 
 2. Click **"Auto suggestion"** to have Copilot generate a description automatically
 
-   > 📸 **[Screenshot required]** — Next steps screen with the "Auto suggestion" button
+> ![Auto suggestion screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/b6580dacc08b05535370e290959cf9a56c2af60a/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/035.png)
 
-   > 💡 **If "Auto suggestion" does not work** (known bug), you can add the description later:  
+   > 💡 **If "Auto suggestion" does not work**, you can add the description later:  
    > - Wait until the connection status shows **"Ready"**  
    > - Click the connection in the list → Click **"Edit description"**  
    > - Paste the following sample description:
@@ -306,12 +300,12 @@ This guide walks through two main tasks:
    processes, and policies.
    ```
 
-3. Click **"Done"**
+3. Click **"Save"** and **"Done"**
 
    > ⚠️ **Important**: The **first sync can take up to 2 hours** to complete.  
    > Wait for the sync to finish before proceeding to the next step.
 
-   > 📸 **[Screenshot required]** — Data sources page showing the new ServiceNow connector with "Preparing to sync" status
+> ![Save and Done screen](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/016c6bd29167b06f90b4b0779f0a81945ee3f662/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/036.png)
 
 ---
 

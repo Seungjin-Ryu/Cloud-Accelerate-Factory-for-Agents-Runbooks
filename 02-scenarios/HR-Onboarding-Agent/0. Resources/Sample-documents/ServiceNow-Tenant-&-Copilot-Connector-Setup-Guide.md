@@ -187,7 +187,7 @@ This guide walks through two main tasks:
    | IT | The ACME North America IT Service Desk Knowledge Base |
    | Knowledge | Knowledge Base for general Knowledge users |
 
-   > 📸 **[Screenshot required]** — Knowledge Bases list showing all four default knowledge bases
+> ![Knowledge Bases list](https://github.com/Seungjin-Ryu/Cloud-Accelerate-Factory-for-Agents-Runbooks/blob/31599524b749949b1104f2b9a942ea9c5dce9af7/02-scenarios/HR-Onboarding-Agent/0.%20Resources/Images/025.png)
 
    > 💡 These four knowledge bases will be imported and indexed into M365 using the ServiceNow Copilot Connector.
 
